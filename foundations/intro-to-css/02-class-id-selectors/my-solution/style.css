@@ -1,0 +1,17 @@
+.num{
+    background-color: hsl(303, 100%, 51%);
+}
+#number-2{
+    color: blue;
+    font-size: 36px;
+}
+
+.number-3{
+    font-size: 24px;
+}
+
+#number-4{
+    background-color: hsl(120, 50%, 50%);
+    font-size: 24px;
+    font-weight: bold;
+}
